@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cubes</string>
+    <string name="rules">Добро пожаловать в игру! Здесь ты можешь сразиться с роботом и обыграть его на его же поле. Правила довольно просты. Каждый из вас будет подбрасывать кубики. Победитель - первый набравший 100 очков. Ну что, ты готов? Тогда бросай кубики. Твой ход.</string>
+    <string name="button">Бросить кубики</string>
+    <string name="your_points_text">Мои очки:</string>
+    <string name="your_points">0</string>
+    <string name="robot_points_text">Очки робота:</string>
+    <string name="robot_points">0</string>
+    <string name="cubes_text">На кубиках выпало:</string>
+    <string name="first_cube_points">-</string>
+    <string name="and">и</string>
+    <string name="second_cube_points">-</string>
+    <string name="textView">Победа!</string>
+    <string name="button2">Играть снова</string>
+    <string name="imageView">TODO</string>
+    <string name="textView2">Проигрыш</string>
+    <string name="imageView2">TODO</string>
+    <string name="button3">Играть снова</string>
+    <string name="textView3">Ничья</string>
+    <string name="button4">Играть снова</string>
+    <string name="imageView3">TODO</string>
+</resources>
