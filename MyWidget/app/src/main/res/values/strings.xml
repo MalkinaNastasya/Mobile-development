@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWidget</string>
+    <string name="textView">Текст виджета</string>
+    <string name="editText">Введите текст</string>
+    <string name="radioRed">Красный</string>
+    <string name="radioOrange">Оранжевый</string>
+    <string name="radioYellow">Желтый</string>
+    <string name="radioGreen">Зеленый</string>
+    <string name="radioLightBlue">Голубой</string>
+    <string name="radioDarkBlue">Синий</string>
+    <string name="radioViolet">Фиолетовый</string>
+    <string name="button">Сохранить</string>
+</resources>
