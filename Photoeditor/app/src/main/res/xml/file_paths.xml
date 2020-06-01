@@ -2,6 +2,6 @@
 <paths>
 <external-path
     name="my_images"
-    path="Android/data/com.example.photo/files/Pictures">
+    path="Android/data/com.example.photoeditor/files/Pictures">
 </external-path>
 </paths>
